@@ -1,2 +1,2 @@
 # TGOB-APP
-Insert project info: 
+Insert project info: Using teachable machines 
