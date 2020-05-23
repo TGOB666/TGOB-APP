@@ -3,4 +3,4 @@ A Pixel-Hunt game modeled after Agar.io where the 'player' is conrolled by the d
 How To Play: 
 1. Your mouse is your player. The square box will move accordingly with your mouse.
 2. The goal of this game is to "eat" the surrounding pixels using your "hunter"/player. 
-3. There are 5 different levels, where you will encounter increasing difficulty.
+3. There are 3 different levels, where you will encounter increasing difficulty.
