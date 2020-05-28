@@ -4,3 +4,5 @@ How To Play:
 1. Your mouse and space-bar is your player/hunter. The square box will move accordingly with your mouse.
 2. The goal of this game is to "eat" the surrounding pixels using your "hunter"/player. 
 3. There are 3 different levels, where you will encounter increasing difficulty.
+
+*needs live-server
